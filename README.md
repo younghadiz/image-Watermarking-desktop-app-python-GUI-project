@@ -2,7 +2,7 @@
 A Python Desktop program where you can upload images and add a watermark.
 
 # Requirments 
-Install pip install `pillow`
+Install `pip install pillow`
 
 # How it works 
 **Load Image**: The application enabled user to select an image file for the app to load.
